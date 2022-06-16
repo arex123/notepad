@@ -1,0 +1,18 @@
+
+for adding archatype for maven project just search "archetype maven repository"
+
+
+-> webscrapping using jsoup
+
+
+
+
+
+What is a POM XML file why it is used?
+
+
+POM is an acronym for Project Object Model. The pom. xml file contains information of project and configuration information for the maven to build the project such as dependencies, build directory, source directory, test source directory, plugin, goals etc. Maven reads the pom. xml file, then executes the goal.
+
+
+persistent class: Persistent classes are those java classes whose objects have to be stored in the database tables.
+hum uss class ko persistent class kahte h , jis class ki hum saaare or kuch variable ko, db table mai column ke roop pe use karte h.
